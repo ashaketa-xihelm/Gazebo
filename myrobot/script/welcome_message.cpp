@@ -16,4 +16,4 @@ namespace gazebo
   GZ_REGISTER_WORLD_PLUGIN(WorldPluginTutorial)
 }
 // export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
-//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
+//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
